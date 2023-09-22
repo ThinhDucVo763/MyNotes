@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.bg-custom{
+	background: #8e24aa;
+}
+.narbar .nar-item .nar-link{
+	font-size: 20px;
+	color: white;
+}
+.navbar-custom .nav-item:hover .nav-link{
+	background: white;
+	color: black;
+	border-radius: 10px;
+}
